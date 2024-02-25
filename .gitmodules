@@ -1,0 +1,6 @@
+[submodule "final_project"]
+	path = final_project
+	url = https://github.com/DmitrijUsachev/final_project.git
+[submodule "Sprint14"]
+	path = Sprint14
+	url = https://github.com/DmitrijUsachev/Sprint14.git
