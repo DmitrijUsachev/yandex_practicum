@@ -31,3 +31,9 @@
 [submodule "Sprint3"]
 	path = Sprint3
 	url = https://github.com/DmitrijUsachev/Sprint3.git
+[submodule "Sprint2"]
+	path = Sprint2
+	url = https://github.com/DmitrijUsachev/Sprint2.git
+[submodule "Sprint1"]
+	path = Sprint1
+	url = https://github.com/DmitrijUsachev/Sprint1.git
