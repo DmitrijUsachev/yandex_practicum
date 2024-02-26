@@ -4,3 +4,30 @@
 [submodule "Sprint14"]
 	path = Sprint14
 	url = https://github.com/DmitrijUsachev/Sprint14.git
+[submodule "Sprint11"]
+	path = Sprint11
+	url = https://github.com/DmitrijUsachev/Sprint11.git
+[submodule "Sprint10"]
+	path = Sprint10
+	url = https://github.com/DmitrijUsachev/Sprint10.git
+[submodule "Sprint9"]
+	path = Sprint9
+	url = https://github.com/DmitrijUsachev/Sprint9.git
+[submodule "Sprint8"]
+	path = Sprint8
+	url = https://github.com/DmitrijUsachev/Sprint8.git
+[submodule "Sprint7"]
+	path = Sprint7
+	url = https://github.com/DmitrijUsachev/Sprint7.git
+[submodule "Sprint6"]
+	path = Sprint6
+	url = https://github.com/DmitrijUsachev/Sprint6.git
+[submodule "Sprint5"]
+	path = Sprint5
+	url = https://github.com/DmitrijUsachev/Sprint5.git
+[submodule "Sprint4"]
+	path = Sprint4
+	url = https://github.com/DmitrijUsachev/Sprint4.git
+[submodule "Sprint3"]
+	path = Sprint3
+	url = https://github.com/DmitrijUsachev/Sprint3.git
